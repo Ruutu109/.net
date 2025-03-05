@@ -1,0 +1,14 @@
+D:\C#\Ass 4\Product_Management\bin\Debug\Product_Management.exe.config
+D:\C#\Ass 4\Product_Management\bin\Debug\Product_Management.exe
+D:\C#\Ass 4\Product_Management\bin\Debug\Product_Management.pdb
+D:\C#\Ass 4\Product_Management\obj\Debug\Product_Management.csproj.AssemblyReference.cache
+D:\C#\Ass 4\Product_Management\obj\Debug\Product_Management.frm_AddProduct.resources
+D:\C#\Ass 4\Product_Management\obj\Debug\Product_Management.frm_Login.resources
+D:\C#\Ass 4\Product_Management\obj\Debug\Product_Management.frm_ProductDetails.resources
+D:\C#\Ass 4\Product_Management\obj\Debug\Product_Management.Properties.Resources.resources
+D:\C#\Ass 4\Product_Management\obj\Debug\Product_Management.frm_SearchProduct.resources
+D:\C#\Ass 4\Product_Management\obj\Debug\Product_Management.csproj.GenerateResource.cache
+D:\C#\Ass 4\Product_Management\obj\Debug\Product_Management.csproj.CoreCompileInputs.cache
+D:\C#\Ass 4\Product_Management\obj\Debug\Product_Management.exe
+D:\C#\Ass 4\Product_Management\obj\Debug\Product_Management.pdb
+D:\C#\Ass 4\Product_Management\obj\Debug\Product_Management.frm_UpdateInformation.resources
